@@ -1,5 +1,5 @@
 # StaffMangSysAspWebForm
 <p>in this APP, you can connect to database for:</p>
-insert 
-update
-delete
+<p>insert</p> 
+<p>update</p>
+<p>delete</p>
